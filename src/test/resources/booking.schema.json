@@ -1,0 +1,11 @@
+{
+  "firstname": "Mary",
+  "lastname": "Jackson",
+  "totalprice": 462,
+  "depositpaid": true,
+  "bookingdates": {
+    "checkin": "2020-06-19",
+    "checkout": "2023-12-13"
+  },
+  "additionalneeds": "Breakfast"
+}
